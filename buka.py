@@ -38,8 +38,8 @@ def main(arg):
 #	print(req.text)
 	st='success'
 	if st in req.text:
-		print("sukses")
-	else: print("gagal")
+		print("CROT GAN")
+	else: print("GAGAL CROT ADA PAK RT ")
 
 tol = []
 for x in range(jm):
